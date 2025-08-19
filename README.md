@@ -13,8 +13,7 @@ A complete open-source personal astrology platform built with Node.js, Express.j
 - 🌟 **Auto Zodiac Detection** - Automatically calculates zodiac sign from birthdate
 - 📅 **Daily Horoscopes** - Personalized content for all 12 zodiac signs
 - 📊 **Horoscope History** - Track and retrieve past readings (7-30 days)
-- 🛡️ **Rate Limiting** - API protection against abuse (5 requests/minute)
-- 🏢 **Professional Branding** - MyNaksh company integration throughout
+- 🛡️ **Rate Limiting** - API protection against abuse (5 requests/minutes) 
 - ☁️ **Cloud Database** - MongoDB Atlas integration for scalability
 - 🔒 **Password Security** - bcrypt hashing with salt rounds
 - ⚡ **Fast Performance** - Optimized database queries and caching
@@ -444,6 +443,7 @@ NODE_ENV=production
 - **Database Indexes:** Optimized for common query patterns
 - **Rate Limiting:** Prevents abuse and ensures fair usage
 - **Error Handling:** Graceful degradation under load
+
 
 
 
