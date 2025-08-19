@@ -118,7 +118,7 @@ Content-Type: application/json
   "success": true,
   "message": "Welcome to MyNaksh! Your Leo horoscope account is ready.",
   "company": "MyNaksh",
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+  "token": "",
   "user": {
     "id": "64f7b2c3d1e2a3b4c5d6e7f8",
     "name": "John Doe",
@@ -444,6 +444,7 @@ NODE_ENV=production
 - **Database Indexes:** Optimized for common query patterns
 - **Rate Limiting:** Prevents abuse and ensures fair usage
 - **Error Handling:** Graceful degradation under load
+
 
 
 
